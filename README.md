@@ -2,6 +2,8 @@
 
 An interactive dashboard built using *( Tableau)* to analyze Amazon's sales, profit, quantity, and performance by region, category, and sub-category.
 
+Dashboard Link:- https://public.tableau.com/app/profile/prajyot.dabholkar/viz/amazonsalesdashboard_17488762305620/Dashboard1
+
 ## 📸 Dashboard Preview
 
 ![Dashboard Screenshot]![Dashboard 1 (3)](https://github.com/user-attachments/assets/ae1d6414-093d-455f-a2fb-1f062d6f0d08)
